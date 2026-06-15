@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(255, 247, 160);
+}
+p{
+    background-color:hotpink ;
+}
+a{
+    background-color: rgb(87, 235, 255);
+}
+.red{
+color: cadetblue;
+}
+.bgyellow{
+background-color: lightcoral;
+}
+
+#firstdiv{
+    background-color: rgb(255, 255, 48);
+}
+h1{
+color: darkblue;
+}
+base{
+    background-color: darkkhaki;
+}
+td{
+border: solid black;
+}
+video{
+    border:solid rgb(0, 255, 8);
+}
+audio{
+    background-color: rgb(72, 0, 255);
+}
+
